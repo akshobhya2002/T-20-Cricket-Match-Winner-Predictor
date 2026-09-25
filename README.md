@@ -1,6 +1,6 @@
 # 🏏 American Express Campus Challenge 2024 – Team *The Data Disruptors*  
 
-Pulkit Agrawal | Aditya Singh | Pratham Malviya  
+Pulkit Agrawal | Aditya Singh |  Akshobhya Janbandhu | Pratham Malviya
 Indian Institute of Technology, Kharagpur  
 
 ---
